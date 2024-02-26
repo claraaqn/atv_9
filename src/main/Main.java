@@ -1,4 +1,6 @@
-import tree.BinarySearchTree;
+package main;
+
+import main.tree.BinarySearchTree;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package estrut;
+package main.estrut;
 
 public interface Tree extends EstruturaElementar{
     public int[] preOrdem();

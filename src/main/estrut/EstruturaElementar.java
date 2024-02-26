@@ -1,4 +1,5 @@
-package estrut;
+package main.estrut;
+
 public interface EstruturaElementar {
     //Métodos Consultivos
     public boolean buscaElemento(int valor);

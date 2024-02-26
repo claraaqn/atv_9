@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import tree.BinarySearchTree;
+import main.tree.BinarySearchTree;
 
 public class AppTest {
 
